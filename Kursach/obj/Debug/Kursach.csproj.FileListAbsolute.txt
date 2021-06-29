@@ -1,0 +1,11 @@
+C:\Users\caman\source\repos\Kursach\Kursach\obj\Debug\Kursach.csprojAssemblyReference.cache
+C:\Users\caman\source\repos\Kursach\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+C:\Users\caman\source\repos\Kursach\Kursach\obj\Debug\Kursach.csproj.GenerateResource.cache
+C:\Users\caman\source\repos\Kursach\Kursach\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
+C:\Users\caman\source\repos\Kursach\Kursach\bin\Debug\Kursach.exe.config
+C:\Users\caman\source\repos\Kursach\Kursach\bin\Debug\Kursach.exe
+C:\Users\caman\source\repos\Kursach\Kursach\bin\Debug\Kursach.pdb
+C:\Users\caman\source\repos\Kursach\Kursach\obj\Debug\Kursach.exe
+C:\Users\caman\source\repos\Kursach\Kursach\obj\Debug\Kursach.pdb
+C:\Users\caman\source\repos\Kursach\Kursach\obj\Debug\Kursach.Form2.resources
+C:\Users\caman\source\repos\Kursach\Kursach\obj\Debug\Kursach.Form1.resources
